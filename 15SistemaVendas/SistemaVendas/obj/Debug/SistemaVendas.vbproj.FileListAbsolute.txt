@@ -1,0 +1,45 @@
+c:\users\paulo\documents\visual studio 2015\Projects\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe.config
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\15SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe.config
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\15SistemaVendas\SistemaVendas\bin\Debug\VendasDB.accdb
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\15SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\15SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.pdb
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\15SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.xml
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.vbprojResolveAssemblyReference.cache
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.FrmPrincipal.resources
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.FrmFatura.resources
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.FrmProduto.resources
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Resources.resources
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.vbproj.GenerateResource.Cache
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.exe
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.xml
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.pdb
+D:\PSI 11D\15SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe.config
+D:\PSI 11D\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.exe
+D:\PSI 11D\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.xml
+D:\PSI 11D\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.pdb
+D:\PSI 11D\15SistemaVendas\SistemaVendas\bin\Debug\VendasDB.accdb
+D:\PSI 11D\15SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe
+D:\PSI 11D\15SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.pdb
+D:\PSI 11D\15SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.xml
+D:\PSI 11D\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.vbprojResolveAssemblyReference.cache
+D:\PSI 11D\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.FrmPrincipal.resources
+D:\PSI 11D\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.FrmFatura.resources
+D:\PSI 11D\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.FrmProduto.resources
+D:\PSI 11D\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Resources.resources
+D:\PSI 11D\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.vbproj.GenerateResource.Cache
+D:\PSI 11D\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.MySplash.resources
+F:\PSI 11D 16-17\15SistemaVendas\SistemaVendas\bin\Debug\VendasDB.accdb
+F:\PSI 11D 16-17\15SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe.config
+F:\PSI 11D 16-17\15SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe
+F:\PSI 11D 16-17\15SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.pdb
+F:\PSI 11D 16-17\15SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.xml
+F:\PSI 11D 16-17\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.vbprojAssemblyReference.cache
+F:\PSI 11D 16-17\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.FrmPrincipal.resources
+F:\PSI 11D 16-17\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.FrmFatura.resources
+F:\PSI 11D 16-17\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.FrmProduto.resources
+F:\PSI 11D 16-17\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Resources.resources
+F:\PSI 11D 16-17\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.MySplash.resources
+F:\PSI 11D 16-17\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.vbproj.GenerateResource.cache
+F:\PSI 11D 16-17\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.exe
+F:\PSI 11D 16-17\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.xml
+F:\PSI 11D 16-17\15SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.pdb
